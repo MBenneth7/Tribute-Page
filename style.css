@@ -1,0 +1,30 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 50px auto;
+}
+
+#main{
+    text-align: center;
+    line-height: 2em;
+}
+
+#title{
+    margin-bottom: 50px;
+}
+
+#img-div{
+    width: 100%;
+}
+
+#img-div img{
+    width: 80%;
+}
+
+#tribute-info{
+    margin: auto 200px;
+    line-height: 2em;
+}
+
+#tribute-info h2, h3{
+    text-align: center;
+}
